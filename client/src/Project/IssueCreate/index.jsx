@@ -69,7 +69,7 @@ const ProjectIssueCreate = ({ project, fetchProject, onCreate, modalClose }) => 
       }}
     >
       <FormElement>
-        <FormHeading>Create issue</FormHeading>
+        <FormHeading>Create Issue</FormHeading>
         <Form.Field.Select
           name="type"
           label="Issue Type"

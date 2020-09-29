@@ -1,7 +1,7 @@
 {
   "name": "jira_api",
   "version": "1.0.0",
-  "author": "Ivor Reic",
+  "author": "Rohan Khanna",
   "license": "MIT",
   "scripts": {
     "start": "nodemon --exec ts-node --files src/index.ts",
